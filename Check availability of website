@@ -1,0 +1,5 @@
+A quick way to check the current availability of a website. 
+
+To use: Hotkey into Alfred, type "down {website.com}", enter. Will launch query in new tab in default browser.
+
+alfredapp://customsearch/Down%20For%20Everyone%3F/down/ascii/url=http://www.downforeveryoneorjustme.com/{query}
